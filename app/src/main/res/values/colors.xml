@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand palette -->
+    <color name="primary">#4E9283</color>
+    <color name="primary_dark">#3D8473</color>
+    <color name="primary_light">#6DB5A4</color>
+    <color name="primary_container">#D1EDE7</color>
+
+    <!-- On-colors -->
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_primary_container">#1B4F46</color>
+
+    <!-- Surface / background -->
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_hint">#94A3B8</color>
+
+    <!-- Input borders -->
+    <color name="input_border_default">#CBD5E1</color>
+
+    <!-- Launcher background -->
+    <color name="ic_launcher_background">#4E9283</color>
+
+    <color name="color_biasa_green">#4DA04D</color>
+
+    <!-- Badge text colors -->
+    <color name="badge_penting_text">#410002</color>
+    <color name="badge_biasa_text">#1B4F3A</color>
+
+    <!-- Status colors -->
+    <color name="color_done">#22C55E</color>
+    <color name="color_pending">#F59E0B</color>
+    <color name="color_penting">#EF4444</color>
+    <color name="color_biasa">#3B82F6</color>
+</resources>

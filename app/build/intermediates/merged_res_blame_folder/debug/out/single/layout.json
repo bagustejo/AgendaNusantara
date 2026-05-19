@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-mergeDebugResources-35:\\layout\\activity_pengaturan.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\layout\\activity_pengaturan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-mergeDebugResources-35:\\layout\\item_task.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-mergeDebugResources-35:\\layout\\activity_daftar_tugas.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\layout\\activity_daftar_tugas.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-mergeDebugResources-35:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-mergeDebugResources-35:\\layout\\activity_tambah_tugas.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\layout\\activity_tambah_tugas.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-mergeDebugResources-35:\\layout\\activity_beranda.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\layout\\activity_beranda.xml"
+    },
+    {
+        "merged": "com.sdm.agendanusantara.app-mergeDebugResources-35:/layout/activity_pengaturan.xml",
+        "source": "com.sdm.agendanusantara.app-main-38:/layout/activity_pengaturan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-mergeDebugResources-35:\\layout\\activity_stub.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\layout\\activity_stub.xml"
+    }
+]

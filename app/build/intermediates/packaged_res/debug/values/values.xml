@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F8FAFC</color>
+    <color name="badge_biasa_text">#1B4F3A</color>
+    <color name="badge_penting_text">#410002</color>
+    <color name="color_biasa">#3B82F6</color>
+    <color name="color_biasa_green">#4DA04D</color>
+    <color name="color_done">#22C55E</color>
+    <color name="color_pending">#F59E0B</color>
+    <color name="color_penting">#EF4444</color>
+    <color name="ic_launcher_background">#4E9283</color>
+    <color name="input_border_default">#CBD5E1</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_primary_container">#1B4F46</color>
+    <color name="primary">#4E9283</color>
+    <color name="primary_container">#D1EDE7</color>
+    <color name="primary_dark">#3D8473</color>
+    <color name="primary_light">#6DB5A4</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+    <color name="text_hint">#94A3B8</color>
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <string name="app_logo_desc">Logo Agenda Nusantara</string>
+    <string name="app_name">Agenda Nusantara</string>
+    <string name="app_slogan">Kelola tugasmu, raih harimu</string>
+    <string name="beranda_title">Beranda</string>
+    <string name="btn_daftar_tugas">Daftar Tugas</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_logout">Keluar</string>
+    <string name="btn_pengaturan">Pengaturan</string>
+    <string name="btn_tambah_biasa">Tambah Tugas\nBiasa</string>
+    <string name="btn_tambah_penting">Tambah Tugas\nPenting</string>
+    <string name="error_invalid_credentials">Username atau password salah</string>
+    <string name="error_password_empty">Password tidak boleh kosong</string>
+    <string name="error_username_empty">Username tidak boleh kosong</string>
+    <string name="hint_password">••••</string>
+    <string name="hint_username">user</string>
+    <string name="label_chart">Tugas Selesai / Hari [Bonus]</string>
+    <string name="label_password">PASSWORD</string>
+    <string name="label_tugas_belum">Belum Selesai</string>
+    <string name="label_tugas_selesai">Tugas Selesai</string>
+    <string name="label_username">USERNAME</string>
+    <style name="TextAppearance.App.Body1" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="TextAppearance.App.Body2" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="TextAppearance.App.Button" parent="TextAppearance.MaterialComponents.Button">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.1</item>
+    </style>
+    <style name="TextAppearance.App.Caption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.08</item>
+    </style>
+    <style name="TextAppearance.App.Headline5" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextAppearance.App.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextAppearance.App.Subtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.AgendaNusantara" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/primary_light</item>
+        <item name="colorOnSecondary">@color/on_primary</item>
+
+        
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnBackground">@color/text_primary</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+
+        
+        <item name="android:statusBarColor">@color/primary</item>
+
+        
+        <item name="android:fontFamily">sans-serif</item>
+
+        
+        <item name="textAppearanceHeadline5">@style/TextAppearance.App.Headline5</item>
+        <item name="textAppearanceHeadline6">@style/TextAppearance.App.Headline6</item>
+        <item name="textAppearanceSubtitle1">@style/TextAppearance.App.Subtitle1</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.App.Body1</item>
+        <item name="textAppearanceBody2">@style/TextAppearance.App.Body2</item>
+        <item name="textAppearanceCaption">@style/TextAppearance.App.Caption</item>
+        <item name="textAppearanceButton">@style/TextAppearance.App.Button</item>
+
+        
+        <item name="textInputStyle">@style/Widget.App.TextInputLayout</item>
+        <item name="materialButtonStyle">@style/Widget.App.Button</item>
+
+    </style>
+    <style name="Widget.App.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.08</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="backgroundTint">@color/primary</item>
+    </style>
+    <style name="Widget.App.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+        <item name="boxStrokeColor">@color/input_stroke</item>
+        <item name="hintEnabled">false</item>
+        <item name="errorIconDrawable">@null</item>
+    </style>
+</resources>

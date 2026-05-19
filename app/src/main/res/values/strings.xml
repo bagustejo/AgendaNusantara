@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agenda Nusantara</string>
+    <string name="app_slogan">Kelola tugasmu, raih harimu</string>
+    <string name="app_logo_desc">Logo Agenda Nusantara</string>
+
+    <!-- Login -->
+    <string name="label_username">USERNAME</string>
+    <string name="label_password">PASSWORD</string>
+    <string name="hint_username">user</string>
+    <string name="hint_password">••••</string>
+    <string name="btn_login">Login</string>
+    <string name="error_username_empty">Username tidak boleh kosong</string>
+    <string name="error_password_empty">Password tidak boleh kosong</string>
+    <string name="error_invalid_credentials">Username atau password salah</string>
+
+    <!-- Beranda -->
+    <string name="beranda_title">Beranda</string>
+    <string name="label_tugas_selesai">Tugas Selesai</string>
+    <string name="label_tugas_belum">Belum Selesai</string>
+    <string name="label_chart">Tugas Selesai / Hari [Bonus]</string>
+    <string name="btn_tambah_penting">Tambah Tugas\nPenting</string>
+    <string name="btn_tambah_biasa">Tambah Tugas\nBiasa</string>
+    <string name="btn_daftar_tugas">Daftar Tugas</string>
+    <string name="btn_pengaturan">Pengaturan</string>
+
+    <!-- General -->
+    <string name="btn_logout">Keluar</string>
+</resources>

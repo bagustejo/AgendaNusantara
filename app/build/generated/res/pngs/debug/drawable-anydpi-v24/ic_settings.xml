@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="28dp"
+    android:height="28dp"
+    android:viewportWidth="28"
+    android:viewportHeight="28">
+    <!-- Gear outer ring (stroke path approximation) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+        M14,9 A5,5 0 1,0 14,19 A5,5 0 1,0 14,9 Z
+        M14,11 A3,3 0 1,1 14,17 A3,3 0 1,1 14,11 Z"
+        android:fillType="evenOdd"/>
+    <!-- Gear teeth (8 teeth via small rectangles rotated) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12.5,3 L15.5,3 L15.5,6 L12.5,6 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12.5,22 L15.5,22 L15.5,25 L12.5,25 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M3,12.5 L3,15.5 L6,15.5 L6,12.5 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,12.5 L22,15.5 L25,15.5 L25,12.5 Z"/>
+    <!-- Diagonal teeth -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M5.5,5.5 L7.6,7.6 L9.8,5.4 L7.7,3.3 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18.2,18.2 L20.3,20.3 L22.5,18.1 L20.4,16 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18.2,9.8 L20.3,7.7 L22.5,9.9 L20.4,12 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M5.5,22.5 L7.6,20.4 L9.8,22.6 L7.7,24.7 Z"/>
+</vector>

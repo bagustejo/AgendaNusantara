@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_bg_btn_rounded.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\bg_btn_rounded.xml"
+    },
+    {
+        "merged": "com.sdm.agendanusantara.app-merged_res-36:/layout_activity_pengaturan.xml.flat",
+        "source": "com.sdm.agendanusantara.app-main-38:/layout/activity_pengaturan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\layout_activity_stub.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\layout\\activity_stub.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\mipmap-hdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable-ldpi_ic_settings.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-pngs-32:\\drawable-ldpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_bg_avatar_circle.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\bg_avatar_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable-xxhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-pngs-32:\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\layout_activity_daftar_tugas.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\layout\\activity_daftar_tugas.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\layout_activity_tambah_tugas.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\layout\\activity_tambah_tugas.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\mipmap-xhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\mipmap-mdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\mipmap-mdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable-mdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-pngs-32:\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_bg_check_done.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\bg_check_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\layout_activity_pengaturan.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\layout\\activity_pengaturan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_bg_check_empty.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\bg_check_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_bg_badge_biasa_pill.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\bg_badge_biasa_pill.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_ic_developer_avatar.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\ic_developer_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_ic_check_done.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\ic_check_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_ic_arrow_right.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-pngs-32:\\drawable-xxxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_bg_nav_blue.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\bg_nav_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\color_input_stroke.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\color\\input_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_ic_task_add.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\ic_task_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\layout_activity_beranda.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\layout\\activity_beranda.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_bg_nav_red.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\bg_nav_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_dot_separator.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\dot_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_bg_badge_penting.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\bg_badge_penting.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_bg_badge_biasa.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\bg_badge_biasa.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_ic_app_logo.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\ic_app_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable-anydpi-v24_ic_settings.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-pngs-32:\\drawable-anydpi-v24\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-pngs-32:\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable-hdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-pngs-32:\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_bg_nav_green.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\bg_nav_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\layout_item_task.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_bg_nav_slate.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\bg_nav_slate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_ic_list.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\ic_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\drawable_ic_task_important.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\drawable\\ic_task_important.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\mipmap-xxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.3\\com.sdm.agendanusantara.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.xml"
+    }
+]

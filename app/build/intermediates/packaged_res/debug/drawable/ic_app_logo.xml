@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    App logo: teal rounded-square + white clipboard with green checkmark.
+    Matches the mockup style as a vector drawable (scalable, no raster needed).
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <!-- ── Rounded-square background ── -->
+    <path
+        android:fillColor="#4E9283"
+        android:pathData="
+            M22,0 L74,0
+            Q96,0 96,22
+            L96,74
+            Q96,96 74,96
+            L22,96
+            Q0,96 0,74
+            L0,22
+            Q0,0 22,0 Z" />
+
+    <!-- ── Clipboard body (white) ── -->
+    <!-- Outer shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M61,27 L56.5,27
+            C55.7,24.2 53.1,22 50,22
+            L46,22
+            C42.9,22 40.3,24.2 39.5,27
+            L35,27
+            C32.8,27 31,28.8 31,31
+            L31,69
+            C31,71.2 32.8,73 35,73
+            L61,73
+            C63.2,73 65,71.2 65,69
+            L65,31
+            C65,28.8 63.2,27 61,27 Z
+            M46,26 L50,26
+            C51.1,26 52,26.9 52,28
+            L52,29
+            L44,29
+            L44,28
+            C44,26.9 44.9,26 46,26 Z
+            M61,69 L35,69
+            L35,31
+            L39.5,31
+            L39.5,33
+            L56.5,33
+            L56.5,31
+            L61,31
+            L61,69 Z" />
+
+    <!-- ── Checkmark on clipboard (teal, stroke-only) ── -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4E9283"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M42,51 L46.5,55.5 L55,44" />
+
+</vector>

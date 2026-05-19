@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Avatar placeholder developer.
+    Ganti dengan foto asli: taruh file PNG/JPG bernama ic_developer_avatar.png
+    di folder res/drawable/, maka akan otomatis menggantikan file ini.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#D1EDE7"
+        android:pathData="M32,0 A32,32 0 1,1 32,64 A32,32 0 1,1 32,0 Z"/>
+
+    <!-- Head -->
+    <path
+        android:fillColor="#4E9283"
+        android:pathData="M32,14 A10,10 0 1,1 32,34 A10,10 0 1,1 32,14 Z"/>
+
+    <!-- Body / shoulders -->
+    <path
+        android:fillColor="#4E9283"
+        android:pathData="M10,58 Q10,42 32,42 Q54,42 54,58 Z"/>
+
+</vector>
